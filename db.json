@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "name": "pos",
+      "image": "https://media.istockphoto.com/id/1411650327/photo/payment-terminal-compact-pos-terminal-and-coins.jpg?s=1024x1024&w=is&k=20&c=2w4X7xvPY4jyJTsu9evN6h1e32qJebd2jZBGCsGWfO4=",
+      "description": "upgrade your servics",
+      "price": "45000",
+      "id": 11
+    },
+    {
+      "name": "Radio",
+      "image": "https://plus.unsplash.com/premium_photo-1664049362628-db965d6b7fc5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "description": "upgrade your vibe",
+      "price": "6000",
+      "id": 12
+    },
+    {
+      "name": "laptop",
+      "image": "http://surl.li/fwumg",
+      "description": "the best ",
+      "price": "340000",
+      "id": 14
+    },
+    {
+      "name": "tv",
+      "image": "http://surl.li/fwvas",
+      "description": "family package",
+      "price": "600000",
+      "id": 15
+    }
+  ]
+}
